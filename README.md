@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Relvas
 ===================================================================================================================================
 
-2nd Year Student
+3rd Year Student
 ----------------
 
 Luis is a student of BSc Informatics and Computer Science at FEUP with the passion for developping and learning !
 
 * 🌍  I'm based in Oporto
-* ✉️  You can contact me at [up202108661@fe.up.pt](mailto:up202108661@fe.up.pt)
+* ✉️  You can contact me at [luisrelvas@netcabo.pt](mailto:luisrelvas@netcabo.pt)
 
 ### Skills
 
